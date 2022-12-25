@@ -1,0 +1,14 @@
+.text{
+    width: 200px;
+    height: 60px;
+    font-size: 20px;
+   border-radius: 15px;
+   color: red;
+   align-items: center;
+}
+body{
+    background-color: grey;
+}
+.tex{
+    color: white;
+}
